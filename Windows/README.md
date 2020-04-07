@@ -1,8 +1,5 @@
 # Content
 ---
-
-## Getting Started
-
 - Advanced Explorer Settings: Modifica configuraciones relacionadas con el explorador de archivos de Windows 10.
 - Disable Automatic App Updates: Deshabilita las actualizaciones automáticas desde la Tienda Windows.
 - Disable Automatic Windows Updates: Deshabilita las actualizaciones automáticas de Windows Update.
@@ -21,4 +18,7 @@
 - Enable Administrator Account: Habilita la cuenta de administrador oculta en Windows 10.
 - Enable Standby instead of Hibernate: Cambia la suspensión por hibernación.
 - Get apps access for Administrator Account: Permite que las aplicaciones utilicen la cuenta de administrador.
+- Xampp: Permite iniciar todos los servicios de Xampp.
+
+
 
